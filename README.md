@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanug21cs" alt="rohanug21cs" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **javaScript, react and web3**
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohan kumar choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan kumar choudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/r.o.h.a.n._c.h.o.u.d.h.a.r.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.o.h.a.n._c.h.o.u.d.h.a.r.y" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rohan225nitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohan225nitp" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohan_choudhary_2106225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohan_choudhary_2106225" height="30" width="40" /></a>
 </p>
 
